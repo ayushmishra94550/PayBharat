@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "description": "PayBharat Demo App for Payments and Recharge",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PayBharat",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Pp ayBharat",
+  "start_url": "/",
+  "theme_color": "#075E54",
+  "icons": [
+    {
+      "src": "https://animated-horse-0ae1ca.netlify.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "paybharat"
+}
