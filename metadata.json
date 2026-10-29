@@ -1,0 +1,7 @@
+{
+  "name": "PayBharat - UPI, AePS & Instant Cashback",
+  "description": "All-in-one payment app with UPI, AePS Aadhaar ATM, Recharges, Bill Payments, and guaranteed 2% to 5% instant cashback on every transaction.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
